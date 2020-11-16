@@ -4,7 +4,7 @@
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 * 🎓 I'm a Computer Science student (graduating in October 2022)
 * 💻 I'm a code lover, knowledge seeker & I love to learn new Technologies.
-* 🌐 You can see some of my projects on [my portfolio]
+* 🌐 You can see some of my projects on [my portfolio][projects]
 
 * :rainbow: Fun fact: I am part of a triplet.
 
